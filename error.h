@@ -1,4 +1,8 @@
-typedef void GArray;typedef int target_pid_t;typedef uint32_t target_ulong;typedef int32_t target_long;typedef uint32_t target_ulong;
+typedef void GArray;
+typedef int target_pid_t;
+typedef uint32_t target_ulong;
+typedef int32_t target_long;
+typedef uint32_t target_ulong;
 /**
 * assumptions.h. The sad truth of a not truly auto-generated file.
 * If something has gone wrong it's probably in here.
